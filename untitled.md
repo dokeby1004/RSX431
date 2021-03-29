@@ -27,10 +27,6 @@ www.RNSLab.com
 
 ### 제품 설치
 
-![&#xC7AD;&#xC774;\(&#xAC00;\) &#xD45C;&#xC2DC;&#xB41C; &#xC0AC;&#xC9C4;
-
-&#xC790;&#xB3D9; &#xC0DD;&#xC131;&#xB41C; &#xC124;&#xBA85;](.gitbook/assets/7.png)
-
 \(호스 크기: 외경 3/8”\)
 
 전원
