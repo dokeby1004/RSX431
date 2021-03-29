@@ -4,11 +4,11 @@ description: 수질 측정 시스템의 기본 구성
 
 # General Function
 
-## RSX431 기본 구성
+## 시스템의 기본 구성
 
 수질 측정 시스템의 내부 구성은 아래 그림 1. 과 같다.
 
-![&#xADF8;&#xB9BC; 1. &#xC218;&#xC9C8; &#xCE21;&#xC815; &#xC2DC;&#xC2A4;&#xD15C;&#xC758; &#xB0B4;&#xBD80; &#xAE30;&#xBCF8; &#xAD6C;&#xC131;](.gitbook/assets/1-.png)
+![&#xADF8;&#xB9BC; 1. &#xC218;&#xC9C8; &#xCE21;&#xC815; &#xC2DC;&#xC2A4;&#xD15C;&#xC758; &#xB0B4;&#xBD80; &#xAD6C;&#xC131;](.gitbook/assets/1_-.png)
 
 ## **수질 측정 방법** 
 
@@ -90,6 +90,4 @@ description: 수질 측정 시스템의 기본 구성
   </thead>
   <tbody></tbody>
 </table>
-
-### 
 
