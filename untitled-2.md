@@ -16,7 +16,9 @@ PC 화면의 오른쪽 하단의 **Cal ON/OFF 버튼** \(⑪ 버튼\)을 클릭�
 
 ### 1. 수소이온농도 \(pH\) 센서 교정 
 
-> 준비물:  증류수, pH 7 Buffer 용액, pH 10 Buffer 용액
+{% hint style="info" %}
+준비물:  증류수, pH 7 Buffer 용액, pH 10 Buffer 용액
+{% endhint %}
 
 1. pH센서 프로브를 증류수로 세척하고 물기를 제거한 후 버퍼 7 용액에 1분 동안 담근다.
 2. pH 값과 CODE 변화가 안정이 되면, 첫번째 칸에 숫자 7을 입력하고 cal 버튼을 click 한다.
