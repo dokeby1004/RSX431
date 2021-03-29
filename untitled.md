@@ -10,7 +10,7 @@ description: Water Quality Multi-parameter Analyzer System
 
 {% hint style="success" %}
 버전 1.0  
-개정일 2021년 3월 26일 
+2021년 3월 26일 
 {% endhint %}
 
 {% hint style="info" %}
