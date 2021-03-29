@@ -20,7 +20,7 @@ description: 수질 측정 시스템의 설치 방법
 * Door를 열어 전원 버튼을 누른다.
 * 부팅과 동시에 Pump가 켜졌다가 꺼진다.
 
-![&#xADF8;&#xB9BC; 4. &#xC804;&#xC6D0; &#xC2A4;&#xC704;&#xCE58;](.gitbook/assets/8.jpeg)
+![&#xADF8;&#xB9BC; 4. &#xC804;&#xC6D0; &#xC2A4;&#xC704;&#xCE58; ](.gitbook/assets/4_-.png)
 
 ### 2. 소프트웨어 프로그램 실행 
 
