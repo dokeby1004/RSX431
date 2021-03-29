@@ -4,7 +4,7 @@ description: Water Multi-parameter Analyzer System
 
 # Introduction
 
-## Introduction
+## RSX431 수질 측정 시스템
 
 ㈜ 알앤에스랩의 **RSX431** 제품은 220V 로 작동되며 계측에 필요한 모든 동작이 PC에 의해 제어되며 pH, EC, Turbidity, Chlorine, Temp 항목이 동시에 측정되는 **멀티 측정기기**이다. 7인치 컬러 LCD의 넓은 화면과 터치패널로 사용자 UI에 쉽게 접근할 수 있으며 사용자가 사용하기 쉬운 화면 구성으로 조작이 간단한 특징을 지닌다. 측정 DATA를 실시간으로 서버로 전송하여 **인터넷 웹, 어플**을 통해 사용자가 무선으로 측정 DATA를 확인할 수 있다.
 
