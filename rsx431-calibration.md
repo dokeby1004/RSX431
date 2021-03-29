@@ -21,7 +21,7 @@ PC 화면의 오른쪽 하단의 **Cal ON/OFF 버튼** \(⑪ 버튼\)을 클릭�
 {% endhint %}
 
 1. pH센서 프로브를 증류수로 세척하고 물기를 제거한 후 버퍼 7 용액에 1분 동안 담근다.
-2. pH 값과 CODE 변화가 안정이 되면, 첫번째 칸에 숫자 7을 입력하고 cal 버튼을 click 한다.
+2. pH 값과 CODE 변화가 안정 되면, 첫번째 칸에 숫자 7을 입력하고 cal 버튼을 click 한다.
 
 ![&#xADF8;&#xB9BC; 2. pH &#xC13C;&#xC11C;&#xC758; &#xAD50;&#xC815; ](.gitbook/assets/2_ph-.png)
 
