@@ -1,5 +1,5 @@
 ---
-description: Water Quality Multi-parameter Analyzer System
+description: Water Multi-parameter Analyzer System
 ---
 
 # Introduction
