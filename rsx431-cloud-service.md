@@ -10,7 +10,7 @@ description: 수질 측정 시스템의 데이터 확인 방법
 3. WEB 과 앱을 통해 DATA를 확인 할 수 있다.
 {% endhint %}
 
-### 1. 웹\(Web\)에서 확인하
+### 1. 웹\(Web\)에서 확인하기 
 
 {% hint style="info" %}
 1. 웹\(Web\) 주소:  [https://52.79.50.2](https://52.79.50.2)
