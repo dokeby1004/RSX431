@@ -15,7 +15,7 @@ description: 수질 측정 시스템의 데이터 확인 방법
 {% hint style="info" %}
 1. 웹\(Web\) 주소:  [https://52.79.50.2](https://52.79.50.2)
 2. ID: support@rsnlab.com
-3. PW: 고객에게 별도로 전
+3. PW: 고객에게 별도로 전달 
 {% endhint %}
 
 ![&#xADF8;&#xB9BC; 1. &#xC6F9;\(Web\) &#xB370;&#xC774;&#xD130; &#xD655;&#xC778;](.gitbook/assets/web_data_check.png)
