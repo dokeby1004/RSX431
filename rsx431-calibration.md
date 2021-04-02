@@ -28,7 +28,7 @@ PC 화면의 오른쪽 하단의 **Cal ON/OFF 버튼** \(⑪ 버튼\)을 클릭�
 
 ![&#xADF8;&#xB9BC; 2. pH &#xC13C;&#xC11C;&#xC758; &#xAD50;&#xC815; ](.gitbook/assets/2_ph-.png)
 
-### 2. 전기전도도\(EC\) 센
+### 2. 전기전도도\(EC\) 센서 교정 
 
 {% hint style="info" %}
 준비물:  증류수, DI water, EC 표준용액 \(84uS/cm\)
@@ -44,7 +44,7 @@ PC 화면의 오른쪽 하단의 **Cal ON/OFF 버튼** \(⑪ 버튼\)을 클릭�
 
 ![&#xADF8;&#xB9BC; 3. EC &#xC13C;&#xC11C;&#xC758; &#xAD50;&#xC815;](.gitbook/assets/ec_calibration.png)
 
-### 3. 잔류염소\(Chlorine\) 센서
+### 3. 잔류염소\(Chlorine\) 센서 교정 
 
 {% hint style="info" %}
 준비물:  증류수, DI water, Chlorine 표준용액 \(10mg/L\)
