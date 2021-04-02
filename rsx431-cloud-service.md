@@ -30,3 +30,7 @@ description: 수질 측정 시스템의 데이터 확인 방법
 
 ![&#xADF8;&#xB9BC; 2. &#xBAA8;&#xBC14;&#xC77C; &#xC571;\(App\) &#xB370;&#xC774;&#xD130; &#xD655;&#xC778;](.gitbook/assets/app_data_check.png)
 
+
+
+{% file src=".gitbook/assets/rsx431\_instruction-manual-rev.1.0.pdf" caption="RSX431\_Instruction Manual rev.1.0" %}
+
