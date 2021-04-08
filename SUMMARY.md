@@ -2,7 +2,7 @@
 
 * [RSX431 - 수질측정시스템](README.md)
 
-## introduction
+## Introduction
 
 * [Introduction](introduction/rsx431-introduction.md)
 
@@ -13,7 +13,7 @@
 * [Calibration](rsx431-calibration.md)
 * [Cloud service](rsx431-cloud-service.md)
 
-## download
+## Download
 
 * [다운로드](download/1.md)
 
