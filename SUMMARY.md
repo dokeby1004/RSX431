@@ -1,7 +1,13 @@
 # Table of contents
 
 * [RSX431 - 수질측정시스템](README.md)
-* [Introduction](rsx431-introduction.md)
+
+## introduction
+
+* [Introduction](introduction/rsx431-introduction.md)
+
+---
+
 * [General Function](general-function.md)
 * [Installation](rsx431-installation.md)
 * [Calibration](rsx431-calibration.md)
