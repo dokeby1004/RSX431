@@ -14,12 +14,12 @@ description: Water Multi-parameter Analyzer System
 {% endhint %}
 
 {% hint style="info" %}
-제품에 대한 문의 사항은 아래로 연락 주시기 바랍니다.  
+제품에 대한 문의는 아래로 연락 주시기 바랍니다.  
   
 **\(주\) 알앤에스랩**  
 경기도 화성시 동탄순환대로 823 에이팩시티 100호  
-www.RNSLab.com  
+[www.RNSLab.com](http://rnslab.com)  
 이메일: admin@rnslab. com  
-대전화: 031-5183-5131
+대표전화: 031-5183-5131
 {% endhint %}
 
