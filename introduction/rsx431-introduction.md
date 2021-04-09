@@ -12,6 +12,8 @@ description: Water Multi-parameter Analyzer System
 
 측정 DATA를 실시간으로 서버로 전송하여 **인터넷 웹, 어플**을 통해 사용자가 무선으로 측정 DATA를 확인할 수 있습니다.
 
+
+
 {% hint style="success" %}
 버전 1.0  
 2021년 3월 
