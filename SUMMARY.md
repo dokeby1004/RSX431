@@ -1,6 +1,6 @@
 # Table of contents
 
-* [RSX431 - 수질측정시스템](README.md)
+* [RSX431](README.md)
 
 ## Introduction
 
