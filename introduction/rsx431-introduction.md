@@ -10,7 +10,7 @@ description: Water Multi-parameter Analyzer System
 
 {% hint style="success" %}
 버전 1.0  
-2021년 3월 26일 
+2021년 3월 
 {% endhint %}
 
 {% hint style="info" %}
