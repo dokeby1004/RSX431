@@ -1,5 +1,5 @@
 ---
-description: RSX431 - Water Quality Multi-parameter Analyzer
+description: Water Quality Measuring Instruments
 ---
 
 # RSX431
