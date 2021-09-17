@@ -10,12 +10,15 @@
 
 * [Product overview](product-description/general-function.md)
 * [Product Description](product-description/rsx431-installation.md)
+* [RSX431 사용방법](product-description/rsx431-calibration.md)
 
----
+## Calibration
 
-* [RSX431 사용방법](rsx431-calibration.md)
-* [RSX431 보정방법](rsx431-cloud-service.md)
-* [Cloud Service](cloud-service.md)
+* [RSX431 보정방법](calibration/rsx431-cloud-service.md)
+
+## Cloud Service <a id="cloud-service-1"></a>
+
+* [Cloud Service](cloud-service-1/cloud-service.md)
 
 ## Download
 
