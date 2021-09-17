@@ -1,21 +1,17 @@
----
-description: 제품의 개요
----
-
 # Product overview
 
 ## 시스템의 기본 구성
 
 수질 측정 시스템의 내부 구성은 아래 그림 1. 과 같다.
 
-![&#xADF8;&#xB9BC; 1. &#xC218;&#xC9C8; &#xCE21;&#xC815; &#xC2DC;&#xC2A4;&#xD15C;&#xC758; &#xB0B4;&#xBD80; &#xAD6C;&#xC131;](.gitbook/assets/1_-.png)
+![&#xADF8;&#xB9BC; 1. &#xC218;&#xC9C8; &#xCE21;&#xC815; &#xC2DC;&#xC2A4;&#xD15C;&#xC758; &#xB0B4;&#xBD80; &#xAD6C;&#xC131;](../.gitbook/assets/1_-.png)
 
 ## **수질 측정 방법** 
 
 1. 그림 2와 같이 수질측정기 내부에서 물은 Flow cell, water tank 와 탁도 센서를 거쳐 출수구를 통해 측정기 밖으로 배출된다.
 2. Flow cell로 유입된 물은 수소이온농도 센서, 잔류염소 센서, 전기전도도 센서 순서로 흐른다.
 
-![&#xADF8;&#xB78C; 2. Water flow](.gitbook/assets/1.png)
+![&#xADF8;&#xB78C; 2. Water flow](../.gitbook/assets/1.png)
 
 ## 수질 측정 센서 
 
@@ -25,7 +21,7 @@ description: 제품의 개요
   <thead>
     <tr>
       <th style="text-align:center">
-        <img src=".gitbook/assets/3.jpeg" alt/>
+        <img src="../.gitbook/assets/3.jpeg" alt/>
       </th>
       <th style="text-align:left">
         <p>&#xCE21;&#xC815; &#xBC94;&#xC704; : 0 - 14 pH</p>
@@ -43,7 +39,7 @@ description: 제품의 개요
   <thead>
     <tr>
       <th style="text-align:center">
-        <img src=".gitbook/assets/4.jpeg" alt/>
+        <img src="../.gitbook/assets/4.jpeg" alt/>
       </th>
       <th style="text-align:left">
         <p>&#xCE21;&#xC815; &#xBC94;&#xC704; : 0-2000uS/cm</p>
@@ -61,7 +57,7 @@ description: 제품의 개요
   <thead>
     <tr>
       <th style="text-align:center">
-        <img src=".gitbook/assets/5.jpeg" alt/>
+        <img src="../.gitbook/assets/5.jpeg" alt/>
       </th>
       <th style="text-align:left">
         <p>&#xCE21;&#xC815; &#xBC94;&#xC704; : 0.0mg/L&#xFF5E;10.0mg/L</p>
@@ -79,7 +75,7 @@ description: 제품의 개요
   <thead>
     <tr>
       <th style="text-align:center">
-        <img src=".gitbook/assets/6.png" alt/>
+        <img src="../.gitbook/assets/6.png" alt/>
       </th>
       <th style="text-align:left">
         <p>&#xCE21;&#xC815; &#xBC94;&#xC704; : 0 ~ 5 NTU</p>
