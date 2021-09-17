@@ -46,7 +46,7 @@ description: Water Quality Measuring Instruments
 {% endhint %}
 
 {% hint style="warning" %}
-주의사
+주의사항
 
 * 포함된 모든 문서 등은 사용자에게 무료로 제공되며 예고 없이 변경될 수 있습니다.
 * RSX431 수질감지 모니터링 시스템을 사용하기 전에 반드시 사용 방법을 읽은 후 사용하시기 바랍니다.
