@@ -1,8 +1,8 @@
 ---
-description: RSX431 수질감지 모니터링 시스템의 주요 구성에 대해 제공합니다.
+description: 제품의 설명
 ---
 
-# RSX431 제품의 설명
+# Product Description
 
 ## 설치 방법 
 
