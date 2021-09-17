@@ -1,8 +1,8 @@
 ---
-description: 수질 측정 시스템의 교정 방법
+description: RSX431 수질감지 모니터링 시스템의 사용방법을 제공합니다.
 ---
 
-# Calibration
+# RSX431 사용방법
 
 ## 수질 센서의 교정 
 

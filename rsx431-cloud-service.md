@@ -1,8 +1,8 @@
 ---
-description: 수질 측정 시스템의 데이터 확인 방법
+description: RSX431 수질감지 모니터링 시스템의 보정방법(Calibration)을 제공합니다.
 ---
 
-# Cloud service
+# RSX431 보정방법
 
 {% hint style="success" %}
 1. RSX431은 pH/EC/Turbidity/Chloirine/Temp 에 대하여 실시간 측정을 진행하며 랜케이블을 통해 서버로 DATA를 실시간 전송을 한다.

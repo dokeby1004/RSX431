@@ -1,8 +1,8 @@
 ---
-description: 수질 측정 시스템의 기본 구성
+description: RSX431 수질감지 모니터링 시스템의 주요 부분에 대한 설명과 사용 방법을 제공합니다.
 ---
 
-# General Function
+# RSX431 제품의 개요
 
 ## 시스템의 기본 구성
 
