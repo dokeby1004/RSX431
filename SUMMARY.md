@@ -8,8 +8,8 @@
 
 ## Product Description
 
-* [Product overview](product-description/general-function.md)
-* [Product Description](product-description/rsx431-installation.md)
+* [RSX431 제품의 개요](product-description/general-function.md)
+* [RSX431 제품의 설명](product-description/rsx431-installation.md)
 * [RSX431 사용방법](product-description/rsx431-calibration.md)
 * [RSX431 보정방법](product-description/rsx431-cloud-service.md)
 
