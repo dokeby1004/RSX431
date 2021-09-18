@@ -115,72 +115,17 @@ RSX431 수질감지 모니터링 시스템의 주요 부분에 대한 설명과 
 
 ## **2. RSX431 제품특징** 
 
-1. 그림 2와 같이 수질측정기 내부에서 물은 Flow cell, water tank 와 탁도 센서를 거쳐 출수구를 통해 측정기 밖으로 배출된다.
-2. Flow cell로 유입된 물은 수소이온농도 센서, 잔류염소 센서, 전기전도도 센서 순서로 흐른다.
+RSX431 수질감지 모니터링 시스템의 특징은 다음과 같습니다.
 
-## 수질 측정 센서 
-
-* 수소이온농도 \(pH\) 센서 
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center"></th>
-      <th style="text-align:left">
-        <p>&#xCE21;&#xC815; &#xBC94;&#xC704; : 0 - 14 pH</p>
-        <p>&#xBD84;&#xD574;&#xB2A5; : 0.01 pH</p>
-        <p>&#xC815;&#xD655;&#xB3C4; : &#xB1;0.1 pH</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-* 전기전도도 \(EC\) 센서 
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center"></th>
-      <th style="text-align:left">
-        <p>&#xCE21;&#xC815; &#xBC94;&#xC704; : 0-2000uS/cm</p>
-        <p>&#xBD84;&#xD574;&#xB2A5; : 50 uS/cm</p>
-        <p>&#xC815;&#xD655;&#xB3C4; : &#xB1;1%FS</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-* 잔류염소 센서 
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center"></th>
-      <th style="text-align:left">
-        <p>&#xCE21;&#xC815; &#xBC94;&#xC704; : 0.0mg/L&#xFF5E;10.0mg/L</p>
-        <p>&#xBD84;&#xD574;&#xB2A5; : 0.01 mg/L</p>
-        <p>&#xC815;&#xD655;&#xB3C4; : &#xB1;0.02mg/L</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-* 탁도 센서 
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center"></th>
-      <th style="text-align:left">
-        <p>&#xCE21;&#xC815; &#xBC94;&#xC704; : 0 ~ 5 NTU</p>
-        <p>&#xBD84;&#xD574;&#xB2A5; : 0.01 NTU</p>
-        <p>&#xC815;&#xD655;&#xB3C4; : &#xB1;0.05 NTU</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
+* 설치 및 사용이 편리
+* 터치스크린 방식으로 사용이 용이
+* 고정밀, 고내구성, 무시약식 센서
+* 견고한 메탈박스의 컴팩트한 사이즈
+* 저렴한 유지관리 비용
+* 실시간 측정 데이터 저장
+* 아날로그 및 디지털 신호처리 기술을 이용한 센서감도 최적화
+* 스마트 기능 탑재
+  * Plug & Play 센서자동인식 및 운전
+  * 시료정체구간이 제거된 측정부 오염방지 구조
+  * 간편한 센서 탈부착 구조
 
