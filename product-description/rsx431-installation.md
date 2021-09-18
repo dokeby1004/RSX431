@@ -99,48 +99,48 @@ RSX431의 내부 원수\(물\)의 흐름은 아래 그림과 같습니다.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">
+      <th style="text-align:center">
         <img src="file:///C:/Users/dokeb/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg"
         alt/>ITEM</th>
-      <th style="text-align:left">Specifications</th>
+      <th style="text-align:center">Specifications</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Measuring method</td>
-      <td style="text-align:left">Glass pH Electrode</td>
+      <td style="text-align:center">Measuring method</td>
+      <td style="text-align:center">Glass pH Electrode</td>
     </tr>
     <tr>
-      <td style="text-align:left">Measuring range</td>
-      <td style="text-align:left">
+      <td style="text-align:center">Measuring range</td>
+      <td style="text-align:center">
         <p>pH: 0.0 ~ 14.0 pH</p>
         <p>Temperature: 0 ~ 85.0 &#x2103;</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Accuracy</td>
-      <td style="text-align:left">pH: &#xB1; 0.1 pH
+      <td style="text-align:center">Accuracy</td>
+      <td style="text-align:center">pH: &#xB1; 0.1 pH
         <br />Temperature: &#xB1; 0.5 &#x2103;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Temperature compensation</td>
-      <td style="text-align:left">10K, 2.252K, PT100, PT1000</td>
+      <td style="text-align:center">Temperature compensation</td>
+      <td style="text-align:center">10K, 2.252K, PT100, PT1000</td>
     </tr>
     <tr>
-      <td style="text-align:left">Slope</td>
-      <td style="text-align:left">&#x2265; 96 %</td>
+      <td style="text-align:center">Slope</td>
+      <td style="text-align:center">&#x2265; 96 %</td>
     </tr>
     <tr>
-      <td style="text-align:left">Zero-point potential</td>
-      <td style="text-align:left">E0 = 7pH &#xB1; 0.3</td>
+      <td style="text-align:center">Zero-point potential</td>
+      <td style="text-align:center">E0 = 7pH &#xB1; 0.3</td>
     </tr>
     <tr>
-      <td style="text-align:left">Resolution</td>
-      <td style="text-align:left">0.01 pH</td>
+      <td style="text-align:center">Resolution</td>
+      <td style="text-align:center">0.01 pH</td>
     </tr>
     <tr>
-      <td style="text-align:left">Maintenance term</td>
-      <td style="text-align:left">6 months suggested
+      <td style="text-align:center">Maintenance term</td>
+      <td style="text-align:center">6 months suggested
         <br />According to the site water quality environment</td>
     </tr>
   </tbody>
@@ -151,7 +151,7 @@ RSX431의 내부 원수\(물\)의 흐름은 아래 그림과 같습니다.
 ### 전기전도도 센서 \(Electric Conductivity Sensor\)
 
 | ITEM | Specifications |
-| :--- | :--- |
+| :---: | :---: |
 | Measuring method | Two electrodes |
 | Constant of electrode | 1.0 |
 | Measuring range | 0 ~ 2,000 uS/cm |
@@ -163,7 +163,7 @@ RSX431의 내부 원수\(물\)의 흐름은 아래 그림과 같습니다.
 ### 잔류염소 센서 \(Residual chlorine Sensor\)
 
 | ITEM | Specifications |
-| :--- | :--- |
+| :---: | :---: |
 | Measuring method | Polarographic amperometry |
 | Measuring range | Residual chlorine: 0.00 ~ 20.00 mg/L  Temperature: -10.0 ~ 110.0 ℃ |
 | Accuracy | Residual chlorine: ± 0.02 mg/L  Temperature: ± 0.5 ℃ |
@@ -176,7 +176,7 @@ RSX431의 내부 원수\(물\)의 흐름은 아래 그림과 같습니다.
 ### 탁도 센서 \(Turbidity Sensor\)
 
 | ITEM | Specifications |
-| :--- | :--- |
+| :---: | :---: |
 | Measuring method | 90˚ Scattering |
 | Measuring range | 0 ~ 20 NTU |
 | Zero draft | ≤ ± 0.015 NTU |
