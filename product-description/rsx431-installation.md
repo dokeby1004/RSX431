@@ -52,30 +52,22 @@ RSX431의 기본 구성은 수질센서 4종 \(탁도, 잔류염소, 수소이�
     <tr>
       <td style="text-align:center">&#xCEF4;&#xD4E8;&#xD130;</td>
       <td style="text-align:left">
-        <ul>
-          <li>7&#xC778;&#xCE58; Color LCD &#xAC10;&#xC555;&#xC2DD; &#xD130;&#xCE58;&#xD328;&#xD2B8;</li>
-          <li>1.2GHz 64&#xBE44;&#xD2B8; &#xCFFC;&#xB4DC;&#xCF54;&#xC5B4; &#xD504;&#xB85C;&#xC138;&#xC11C;</li>
-          <li>&#xC804;&#xBA74; &#xBC29;&#xC218; (IP65)</li>
-        </ul>
+        <p>7&#xC778;&#xCE58; Color LCD &#xAC10;&#xC555;&#xC2DD; &#xD130;&#xCE58;&#xD328;&#xD2B8;</p>
+        <p>1.2GHz 64&#xBE44;&#xD2B8; &#xCFFC;&#xB4DC;&#xCF54;&#xC5B4; &#xD504;&#xB85C;&#xC138;&#xC11C;</p>
+        <p>&#xC804;&#xBA74; &#xBC29;&#xC218; (IP65)</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">&#xCD9C;&#xB825;</td>
       <td style="text-align:left">
-        <ul>
-          <li>22 GPIO, 40&#xD540; &#xD5E4;&#xB354;&#xC18C;&#xCF13;</li>
-          <li>USB&#xD3EC;&#xD2B8; (USB 2.0), I2C &#xC9C0;&#xC6D0;</li>
-        </ul>
+        <p>22 GPIO, 40&#xD540; &#xD5E4;&#xB354;&#xC18C;&#xCF13;</p>
+        <p>USB&#xD3EC;&#xD2B8; (USB 2.0), I2C &#xC9C0;&#xC6D0;</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">&#xD1B5;&#xC2E0;</td>
-      <td style="text-align:left">
-        <ul>
-          <li>&#xC774;&#xB354;&#xB137; &#xD1B5;&#xC2E0; (10/100Mbps), &#xBB34;&#xC120;WiFi
-            (&#xC120;&#xD0DD;)</li>
-        </ul>
-      </td>
+      <td style="text-align:left">&#xC774;&#xB354;&#xB137; &#xD1B5;&#xC2E0; (10/100Mbps), &#xBB34;&#xC120;WiFi
+        (&#xC120;&#xD0DD;)</td>
     </tr>
   </tbody>
 </table>
@@ -88,29 +80,109 @@ RSX431의 기본 구성은 수질센서 4종 \(탁도, 잔류염소, 수소이�
 
 ![&#xADF8;&#xB9BC; 4. &#xC218;&#xC9C8;&#xAC10;&#xC9C0; &#xBAA8;&#xB2C8;&#xD130;&#xB9C1; &#xC2DC;&#xC2A4;&#xD15C;&#xC758; &#xCE21;&#xBA74;&#xBD80;](../.gitbook/assets/4.jpg)
 
-## 사용 방법 
+## 2. RSX431 수질측정 
 
-### 1. 전원 연결 
+RSX431의 내부 원수\(물\)의 흐름은 아래 그림과 같습니다.
 
-* Door를 열어 전원 버튼을 누른다.
-* 부팅과 동시에 Pump가 켜졌다가 꺼진다.
+먼저, 원수는 수압이 충분하지 않을 경우, 워터펌프에 의해 Flow Cell의 급수 호스 \(Inlet\)를 통해 공급되며 유량센서, 수질센서를 거쳐 마지막으로 탁도 센서의 수조에 공급됩니다. 탁도 센서의 수조는 미세한 기포 \(Bubble\) 생성을 방지하고 기포를 제거하는 구조로 되어 있으며 탁도 센서의 배수 호스 \(Outlet\)를 통해 원수는 외부로 배출됩니다. 
 
-### 2. 소프트웨어 프로그램 실행 
+측정수조 \(Flow cell\)로 유입된 원수는 수소이온농도 센서, 잔류염소 센서, 전기전도도 센서, 탁도 센서 순서로 흐릅니다. 일정한 유량을 유지하기 위해 유량센서가 있습니다.
 
-* PC 부팅이 끝나면 프로그램이 자동 실행된다.
-* 자동 실행이 되지 않을 시에는 terminal button을 두 번 눌러 실행한다.
 
-### 3. 프로그램 동작 
 
-* 프로그램이 실행되면 아래와 같은 순서로 프로그램이 동작 된다.
-* 수질을 측정 데이터는 모니터에 출력 되며, 동시에 서버로 전송되어 WEB과 안ㄹ드로이드 어플에서도 확인할 수 있다.
+![&#xADF8;&#xB9BC; 5. &#xB0B4;&#xBD80; &#xBB3C; &#xD750;&#xB984; \(Water Flow\)](../.gitbook/assets/5.jpg)
 
-### 4. PC 화면의 각 부분 명칭 
+## 3. 수질센서 사양 
 
-> ① pH센서 출력    ② pH 센서 Code data   ③ pH센서 Calibration part \(사용자 Modify\)  
-> ④ EC 센서 출력   ⑤ Chlorine 센서 출력   ⑥ Turbidity 센서 출력   ⑦ Temp 센서 출력  
-> ⑧ Calibration temp 설정값 \(사용자 Modify\)   ⑨ Error 출력창   ⑩ 현재 상태 출력창  
-> ⑪ Calibration On/Off Button \(사용자 Modify\)
+### 수소이온농도 센서 \(pH Sensor\)
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <img src="file:///C:/Users/dokeb/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg"
+        alt/>ITEM</th>
+      <th style="text-align:left">Specifications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Measuring method</td>
+      <td style="text-align:left">Glass pH Electrode</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Measuring range</td>
+      <td style="text-align:left">
+        <p>pH: 0.0~14.0 pH,</p>
+        <p>Temperature: 0~85.0 &#x2103;</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Accuracy</td>
+      <td style="text-align:left">pH: &#xB1;0.1 pH,
+        <br />Temperature: &#xB1;0.5 &#x2103;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Temperature compensation</td>
+      <td style="text-align:left">10K, 2.252K, PT100, PT1000</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Slope</td>
+      <td style="text-align:left">&#x2265; 96 %</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Zero-point potential</td>
+      <td style="text-align:left">E0 = 7pH &#xB1; 0.3</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Resolution</td>
+      <td style="text-align:left">0.01 pH</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Maintenance term</td>
+      <td style="text-align:left">6 months suggested
+        <br />According to the site water quality environment</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+### 전기전도도 센서 \(Electric Conductivity Sensor\)
+
+| ITEM | Specifications |
+| :--- | :--- |
+| Measuring method | Two electrodes |
+| Constant of electrode | 1.0 |
+| Measuring range | 0~2,000 uS/cm |
+| Electrode | SS316L |
+| Maintenance term | 6 months suggested  According to the site water quality environment |
+
+
+
+### 잔류염소 센서 \(Residual chlorine Sensor\)
+
+| ITEM | Specifications |
+| :--- | :--- |
+| Measuring method | Polarographic amperometry |
+| Measuring range | Residual chlorine: 0.00~20.00 mg/L  Temperature: -10.0~110.0 ℃ |
+| Accuracy | Residual chlorine: ±0.02 mg/L  Temperature: ±0.5 ℃ |
+| Resolution | Residual chlorine: 0.01 mg/L  Temperature: 0.1 ℃ |
+| Operating temperature | 0~60 ℃ |
+| Maintenance term | 6 months suggested  According to the site water quality environment |
+
+
+
+### 탁도 센서 \(Turbidity Sensor\)
+
+| ITEM | Specifications |
+| :--- | :--- |
+| Measuring method | 90˚ Scattering |
+| Measuring range | 0~20 NTU |
+| Zero draft | ≤ ±0.015 NTU |
+| Error of display value | ≤ ±2 % or ±0.015 NTU |
+| Operating temperature | 0~50 ℃ |
+| Maintenance term | 12 months suggested  According to the site water quality environment |
 
 
 
