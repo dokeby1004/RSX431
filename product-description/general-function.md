@@ -40,29 +40,23 @@ RSX431 수질감지 모니터링 시스템의 주요 부분에 대한 설명과 
     <tr>
       <td style="text-align:center">&#xCEF4;&#xD4E8;&#xD130;</td>
       <td style="text-align:left">
-        <ul>
-          <li>7&#xC778;&#xCE58; Color LCD &#xAC10;&#xC555;&#xC2DD; &#xD130;&#xCE58;&#xD328;&#xD2B8;</li>
-          <li>1.2GHz 64&#xBE44;&#xD2B8; &#xCFFC;&#xB4DC;&#xCF54;&#xC5B4; &#xD504;&#xB85C;&#xC138;&#xC11C;</li>
-          <li>&#xC804;&#xBA74; &#xBC29;&#xC218; (IP65)</li>
-        </ul>
+        <p>7&#xC778;&#xCE58; Color LCD &#xAC10;&#xC555;&#xC2DD; &#xD130;&#xCE58;&#xD328;&#xD2B8;</p>
+        <p>1.2GHz 64&#xBE44;&#xD2B8; &#xCFFC;&#xB4DC;&#xCF54;&#xC5B4; &#xD504;&#xB85C;&#xC138;&#xC11C;</p>
+        <p>&#xC804;&#xBA74; &#xBC29;&#xC218; (IP65)</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">&#xCD9C;&#xB825;</td>
       <td style="text-align:left">
-        <ul>
-          <li>22 GPIO, 40&#xD540; &#xD5E4;&#xB354;&#xC18C;&#xCF13;</li>
-          <li>USB&#xD3EC;&#xD2B8; (USB 2.0), I2C &#xC9C0;&#xC6D0;</li>
-        </ul>
+        <p>22 GPIO, 40&#xD540; &#xD5E4;&#xB354;&#xC18C;&#xCF13;</p>
+        <p>USB&#xD3EC;&#xD2B8; (USB 2.0), I2C &#xC9C0;&#xC6D0;</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">&#xD1B5;&#xC2E0;</td>
       <td style="text-align:left">
-        <ul>
-          <li>&#xC774;&#xB354;&#xB137; &#xD1B5;&#xC2E0; (10/100Mbps)</li>
-          <li>&#xBB34;&#xC120;WiFi (&#xC120;&#xD0DD;)</li>
-        </ul>
+        <p>&#xC774;&#xB354;&#xB137; &#xD1B5;&#xC2E0; (10/100Mbps)</p>
+        <p>&#xBB34;&#xC120;WiFi (&#xC120;&#xD0DD;)</p>
       </td>
     </tr>
     <tr>
@@ -71,29 +65,26 @@ RSX431 수질감지 모니터링 시스템의 주요 부분에 대한 설명과 
         <p>&#xC8FC;&#xC694;&#xAE30;&#xB2A5;</p>
       </td>
       <td style="text-align:left">
+        <p>&#xC218;&#xC9C8; &#xB2E4;&#xD56D;&#xBAA9; &#xB370;&#xC774;&#xD130; &#xB3D9;&#xC2DC;
+          &#xB514;&#xC2A4;&#xD50C;&#xB808;&#xC774;</p>
         <ul>
-          <li>&#xC218;&#xC9C8; &#xB2E4;&#xD56D;&#xBAA9; &#xB370;&#xC774;&#xD130; &#xB3D9;&#xC2DC;
-            &#xB514;&#xC2A4;&#xD50C;&#xB808;&#xC774;
-            <ul>
-              <li>&#xD0C1;&#xB3C4;, &#xC794;&#xB958;&#xC5FC;&#xC18C;, &#xC804;&#xAE30;&#xC804;&#xB3C4;&#xB3C4;,
-                &#xC218;&#xC18C;&#xC774;&#xC628;, &#xC218;&#xC628; &#xB4F1;</li>
-              <li>&#xAC01; &#xC13C;&#xC11C;&#xC758; &#xC2E4;&#xC2DC;&#xAC04; &#xCE21;&#xC815;
-                &#xB370;&#xC774;&#xD130; &#xD45C;&#xC2DC;</li>
-              <li>&#xAC01; &#xC13C;&#xC11C;&#xC758; &#xC2E4;&#xC2DC;&#xAC04; &#xCE21;&#xC815;
-                &#xADF8;&#xB798;&#xD504; &#xD45C;&#xC2DC;</li>
-              <li>&#xC54C;&#xB78C; &#xC124;&#xC815; &#xBC0F; &#xC54C;&#xB78C; &#xD45C;&#xC2DC;
-                &#xAE30;&#xB2A5;</li>
-              <li>&#xBCF4;&#xC815;(Calibration) &#xAE30;&#xB2A5;</li>
-            </ul>
-          </li>
-          <li>&#xC218;&#xC9C8;&#xC9C4;&#xB2E8;, &#xACBD;&#xBCF4;&#xAE30;&#xB2A5; (&#xBAA8;&#xBC14;&#xC77C;APP&#xC5D0;&#xC11C;
-            &#xC9C0;&#xC6D0;)</li>
-          <li>&#xC13C;&#xC11C; &#xC790;&#xB3D9;&#xC138;&#xC815; &#xAE30;&#xB2A5;</li>
-          <li>&#xBB3C; &#xACF5;&#xAE09;&#xC0C1;&#xD0DC; &#xAC10;&#xC2DC;&#xAE30;&#xB2A5;</li>
-          <li>&#xB0B4;&#xBD80; &#xB204;&#xC218; &#xAC10;&#xC2DC;&#xAE30;&#xB2A5;</li>
-          <li>&#xB370;&#xC774;&#xD130; &#xC800;&#xC7A5; &#xBC0F; &#xB2E4;&#xC6B4;&#xB85C;&#xB4DC;
-            (&#xC11C;&#xBC84;&#xC5D0;&#xC11C; &#xC9C0;&#xC6D0;)</li>
+          <li>&#xD0C1;&#xB3C4;, &#xC794;&#xB958;&#xC5FC;&#xC18C;, &#xC804;&#xAE30;&#xC804;&#xB3C4;&#xB3C4;,
+            &#xC218;&#xC18C;&#xC774;&#xC628;, &#xC218;&#xC628; &#xB4F1;</li>
+          <li>&#xAC01; &#xC13C;&#xC11C;&#xC758; &#xC2E4;&#xC2DC;&#xAC04; &#xCE21;&#xC815;
+            &#xB370;&#xC774;&#xD130; &#xD45C;&#xC2DC;</li>
+          <li>&#xAC01; &#xC13C;&#xC11C;&#xC758; &#xC2E4;&#xC2DC;&#xAC04; &#xCE21;&#xC815;
+            &#xADF8;&#xB798;&#xD504; &#xD45C;&#xC2DC;</li>
+          <li>&#xC54C;&#xB78C; &#xC124;&#xC815; &#xBC0F; &#xC54C;&#xB78C; &#xD45C;&#xC2DC;
+            &#xAE30;&#xB2A5;</li>
+          <li>&#xBCF4;&#xC815;(Calibration) &#xAE30;&#xB2A5;</li>
         </ul>
+        <p>&#xC218;&#xC9C8;&#xC9C4;&#xB2E8;, &#xACBD;&#xBCF4;&#xAE30;&#xB2A5; (&#xBAA8;&#xBC14;&#xC77C;APP&#xC5D0;&#xC11C;
+          &#xC9C0;&#xC6D0;)</p>
+        <p>&#xC13C;&#xC11C; &#xC790;&#xB3D9;&#xC138;&#xC815; &#xAE30;&#xB2A5;</p>
+        <p>&#xBB3C; &#xACF5;&#xAE09;&#xC0C1;&#xD0DC; &#xAC10;&#xC2DC;&#xAE30;&#xB2A5;</p>
+        <p>&#xB0B4;&#xBD80; &#xB204;&#xC218; &#xAC10;&#xC2DC;&#xAE30;&#xB2A5;</p>
+        <p>&#xB370;&#xC774;&#xD130; &#xC800;&#xC7A5; &#xBC0F; &#xB2E4;&#xC6B4;&#xB85C;&#xB4DC;
+          (&#xC11C;&#xBC84;&#xC5D0;&#xC11C; &#xC9C0;&#xC6D0;)</p>
       </td>
     </tr>
     <tr>
@@ -103,11 +94,9 @@ RSX431 수질감지 모니터링 시스템의 주요 부분에 대한 설명과 
     <tr>
       <td style="text-align:center">&#xC5B8;&#xC5B4;</td>
       <td style="text-align:left">
-        <ul>
-          <li>&#xC601;&#xBB38;&#xBA54;&#xB274;</li>
-          <li>&#xD55C;&#xAE00; &#xC124;&#xBA85;&#xC11C;, &#xD55C;&#xAE00; &#xC628;&#xB77C;&#xC778;
-            &#xC124;&#xBA85;&#xC11C;</li>
-        </ul>
+        <p>&#xC601;&#xBB38;&#xBA54;&#xB274;</p>
+        <p>&#xD55C;&#xAE00; &#xC124;&#xBA85;&#xC11C;, &#xD55C;&#xAE00; &#xC628;&#xB77C;&#xC778;
+          &#xC124;&#xBA85;&#xC11C;</p>
       </td>
     </tr>
   </tbody>
