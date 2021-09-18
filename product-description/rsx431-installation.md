@@ -66,7 +66,7 @@ RSX431의 기본 구성은 수질센서 4종 \(탁도, 잔류염소, 수소이�
     </tr>
     <tr>
       <td style="text-align:center">&#xD1B5;&#xC2E0;</td>
-      <td style="text-align:center">&#xC774;&#xB354;&#xB137; &#xD1B5;&#xC2E0; (10/100Mbps),
+      <td style="text-align:center">&#xC774;&#xB354;&#xB137; &#xD1B5;&#xC2E0; (10/100Mbps)
         <br />&#xBB34;&#xC120;WiFi (&#xC120;&#xD0DD;)</td>
     </tr>
   </tbody>
