@@ -113,14 +113,14 @@ RSX431의 내부 원수\(물\)의 흐름은 아래 그림과 같습니다.
     <tr>
       <td style="text-align:left">Measuring range</td>
       <td style="text-align:left">
-        <p>pH: 0.0~14.0 pH,</p>
-        <p>Temperature: 0~85.0 &#x2103;</p>
+        <p>pH: 0.0 ~ 14.0 pH</p>
+        <p>Temperature: 0 ~ 85.0 &#x2103;</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Accuracy</td>
-      <td style="text-align:left">pH: &#xB1;0.1 pH,
-        <br />Temperature: &#xB1;0.5 &#x2103;</td>
+      <td style="text-align:left">pH: &#xB1; 0.1 pH
+        <br />Temperature: &#xB1; 0.5 &#x2103;</td>
     </tr>
     <tr>
       <td style="text-align:left">Temperature compensation</td>
@@ -154,7 +154,7 @@ RSX431의 내부 원수\(물\)의 흐름은 아래 그림과 같습니다.
 | :--- | :--- |
 | Measuring method | Two electrodes |
 | Constant of electrode | 1.0 |
-| Measuring range | 0~2,000 uS/cm |
+| Measuring range | 0 ~ 2,000 uS/cm |
 | Electrode | SS316L |
 | Maintenance term | 6 months suggested  According to the site water quality environment |
 
@@ -165,10 +165,10 @@ RSX431의 내부 원수\(물\)의 흐름은 아래 그림과 같습니다.
 | ITEM | Specifications |
 | :--- | :--- |
 | Measuring method | Polarographic amperometry |
-| Measuring range | Residual chlorine: 0.00~20.00 mg/L  Temperature: -10.0~110.0 ℃ |
-| Accuracy | Residual chlorine: ±0.02 mg/L  Temperature: ±0.5 ℃ |
+| Measuring range | Residual chlorine: 0.00 ~ 20.00 mg/L  Temperature: -10.0 ~ 110.0 ℃ |
+| Accuracy | Residual chlorine: ± 0.02 mg/L  Temperature: ± 0.5 ℃ |
 | Resolution | Residual chlorine: 0.01 mg/L  Temperature: 0.1 ℃ |
-| Operating temperature | 0~60 ℃ |
+| Operating temperature | 0 ~ 60 ℃ |
 | Maintenance term | 6 months suggested  According to the site water quality environment |
 
 
@@ -178,10 +178,10 @@ RSX431의 내부 원수\(물\)의 흐름은 아래 그림과 같습니다.
 | ITEM | Specifications |
 | :--- | :--- |
 | Measuring method | 90˚ Scattering |
-| Measuring range | 0~20 NTU |
-| Zero draft | ≤ ±0.015 NTU |
-| Error of display value | ≤ ±2 % or ±0.015 NTU |
-| Operating temperature | 0~50 ℃ |
+| Measuring range | 0 ~ 20 NTU |
+| Zero draft | ≤ ± 0.015 NTU |
+| Error of display value | ≤ ± 2 % or ± 0.015 NTU |
+| Operating temperature | 0 ~ 50 ℃ |
 | Maintenance term | 12 months suggested  According to the site water quality environment |
 
 
