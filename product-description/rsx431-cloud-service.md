@@ -12,8 +12,6 @@ description: RSX431 수질감지 모니터링 시스템의 보정방법(Calibrat
 
 ### 1. 웹\(Web\)에서 확인하기 
 
-![&#xADF8;&#xB9BC; 1. &#xC6F9;\(Web\) &#xB370;&#xC774;&#xD130; &#xD655;&#xC778;](../.gitbook/assets/web_data_check.png)
-
 ### 2. 모바일 앱\(App\)에서 확인하기 
 
 {% hint style="info" %}
@@ -22,9 +20,7 @@ description: RSX431 수질감지 모니터링 시스템의 보정방법(Calibrat
 3. PW: 123456
 {% endhint %}
 
-![&#xADF8;&#xB9BC; 2. &#xBAA8;&#xBC14;&#xC77C; &#xC571;\(App\) &#xB370;&#xC774;&#xD130; &#xD655;&#xC778;](../.gitbook/assets/app_data_check.png)
 
 
-
-{% file src="../.gitbook/assets/rsx431\_instruction-manual-rev.1.0.pdf" caption="RSX431\_Instruction Manual rev.1.0" %}
+{% file src="../.gitbook/assets/rsx431\_instruction-manual-rev.1.1.pdf" caption="RSX431\_Instruction Manual rev.1.0" %}
 
