@@ -17,7 +17,7 @@ RSX431 수질감지 모니터링 시스템에서 개별센서를 보정할 수 �
 
 보정\(Calibration\) 화면은 다음 그림과 같습니다. 
 
-상단의 Calibration 버튼을 클릭하면 접근이 가능하며, 보정은 ZERO CAL과 SPAN CAL로 나누어 있어 2-포인트 보정을 실시합니다.
+상단의 Calibration 버튼을 클릭하면 접근이 가능하며, 보정은 **ZERO CAL과 SPAN CAL**로 나누어 있어 2-포인트 보정을 실시합니다.
 
 ![&#xADF8;&#xB9BC; 22. &#xBCF4;&#xC815; \(Calibration\) &#xD654;&#xBA74;](../.gitbook/assets/22.jpg)
 
