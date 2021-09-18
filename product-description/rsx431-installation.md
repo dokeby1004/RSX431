@@ -45,13 +45,13 @@ RSX431의 기본 구성은 수질센서 4종 \(탁도, 잔류염소, 수소이�
   <thead>
     <tr>
       <th style="text-align:center">&#xAD6C;&#xBD84;</th>
-      <th style="text-align:left">&#xC0C1;&#xC138;&#xC0AC;&#xC591;</th>
+      <th style="text-align:center">&#xC0C1;&#xC138;&#xC0AC;&#xC591;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:center">&#xCEF4;&#xD4E8;&#xD130;</td>
-      <td style="text-align:left">
+      <td style="text-align:center">
         <p>7&#xC778;&#xCE58; Color LCD &#xAC10;&#xC555;&#xC2DD; &#xD130;&#xCE58;&#xD328;&#xD2B8;</p>
         <p>1.2GHz 64&#xBE44;&#xD2B8; &#xCFFC;&#xB4DC;&#xCF54;&#xC5B4; &#xD504;&#xB85C;&#xC138;&#xC11C;</p>
         <p>&#xC804;&#xBA74; &#xBC29;&#xC218; (IP65)</p>
@@ -59,14 +59,14 @@ RSX431의 기본 구성은 수질센서 4종 \(탁도, 잔류염소, 수소이�
     </tr>
     <tr>
       <td style="text-align:center">&#xCD9C;&#xB825;</td>
-      <td style="text-align:left">
+      <td style="text-align:center">
         <p>22 GPIO, 40&#xD540; &#xD5E4;&#xB354;&#xC18C;&#xCF13;</p>
         <p>USB&#xD3EC;&#xD2B8; (USB 2.0), I2C &#xC9C0;&#xC6D0;</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">&#xD1B5;&#xC2E0;</td>
-      <td style="text-align:left">&#xC774;&#xB354;&#xB137; &#xD1B5;&#xC2E0; (10/100Mbps), &#xBB34;&#xC120;WiFi
+      <td style="text-align:center">&#xC774;&#xB354;&#xB137; &#xD1B5;&#xC2E0; (10/100Mbps), &#xBB34;&#xC120;WiFi
         (&#xC120;&#xD0DD;)</td>
     </tr>
   </tbody>
