@@ -68,7 +68,7 @@ description: Water Quality Measuring Instruments
 **\(주\) 알앤에스랩**  
 경기도 화성시 동탄순환대로 823, 에이팩시티 1001호  
 [www.RNSLab.com](http://rnslab.com)  
-이메일: admin@rnslab. com  
+이메일: admin@RNSLab. com  
 대표전화: 031-5183-5131
 {% endhint %}
 
