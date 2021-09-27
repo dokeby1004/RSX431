@@ -67,12 +67,10 @@ RSX431 수질감지 모니터링 시스템의 주요 부분에 대한 설명과 
       <td style="text-align:center">
         <p>&#xC218;&#xC9C8; &#xB2E4;&#xD56D;&#xBAA9; &#xB370;&#xC774;&#xD130; &#xB3D9;&#xC2DC;
           &#xB514;&#xC2A4;&#xD50C;&#xB808;&#xC774;</p>
-        <p>&#xD0C1;&#xB3C4;, &#xC794;&#xB958;&#xC5FC;&#xC18C;, &#xC804;&#xAE30;&#xC804;&#xB3C4;&#xB3C4;,
-          &#xC218;&#xC18C;&#xC774;&#xC628;, &#xC218;&#xC628; &#xB4F1; &#xD45C;&#xC2DC;</p>
+        <p>(&#xD0C1;&#xB3C4;, &#xC794;&#xB958;&#xC5FC;&#xC18C;, &#xC804;&#xAE30;&#xC804;&#xB3C4;&#xB3C4;,
+          &#xC218;&#xC18C;&#xC774;&#xC628;, &#xC218;&#xC628; &#xB4F1; &#xD45C;&#xC2DC;)</p>
         <p>&#xAC01; &#xC13C;&#xC11C;&#xC758; &#xC2E4;&#xC2DC;&#xAC04; &#xCE21;&#xC815;
-          &#xB370;&#xC774;&#xD130; &#xD45C;&#xC2DC;</p>
-        <p>&#xAC01; &#xC13C;&#xC11C;&#xC758; &#xC2E4;&#xC2DC;&#xAC04; &#xCE21;&#xC815;
-          &#xADF8;&#xB798;&#xD504; &#xD45C;&#xC2DC;</p>
+          &#xB370;&#xC774;&#xD130;/&#xADF8;&#xB798;&#xD504; &#xD45C;&#xC2DC;</p>
         <p>&#xC54C;&#xB78C; &#xC124;&#xC815; &#xBC0F; &#xC54C;&#xB78C; &#xD45C;&#xC2DC;
           &#xAE30;&#xB2A5;</p>
         <p>&#xBCF4;&#xC815;(Calibration) &#xAE30;&#xB2A5;</p>
