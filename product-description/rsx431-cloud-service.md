@@ -93,7 +93,7 @@ T : 절대온도 \(K\)
 전기전도도는 다음과 같은 식으로 정의됩니다.
 
 $$
-전기전도도 (uS/cm) = C X Lx
+Electric Conductivity (uS/cm) = C X Lx
 $$
 
 여기서, 
