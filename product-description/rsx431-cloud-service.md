@@ -29,8 +29,6 @@ RSX431 수질감지 모니터링 시스템에서 개별센서를 보정할 수 �
 
 ![&#xADF8;&#xB9BC; 23. &#xBCF4;&#xC815; \(Calibration\) &#xD654;&#xBA74;&#xC758; &#xC124;&#xBA85;](../.gitbook/assets/23.jpg)
 
-## 
-
 ## 1. 수소이온농도 \(pH\) 센서
 
 ### 측정방법
